@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = OmniAuth::Tecnologiedemocratiche::VERSION
   spec.authors       = ['Alessandro Rodi']
   spec.email         = ['alessandro.rodi@renuo.ch']
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Omniauth Strategy to connect via Tecnologie Democratiche}
+  spec.description   = %q{Omniauth Strategy to connect via Tecnologie Democratiche}
   spec.homepage      = ''
   spec.license       = 'MIT'
 
