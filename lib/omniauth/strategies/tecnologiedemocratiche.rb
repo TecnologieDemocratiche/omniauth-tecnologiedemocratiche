@@ -3,7 +3,7 @@ require 'omniauth-oauth2'
 module OmniAuth
   module Strategies
     class Tecnologiedemocratiche < OmniAuth::Strategies::OAuth2
-      option :name, 'Tecnologie Democratiche'
+      option :name, :tecnologiedemocratiche
 
       option :client_options, {
                                 site: 'https://tecnologiedemocratiche.herokuapp.com',
