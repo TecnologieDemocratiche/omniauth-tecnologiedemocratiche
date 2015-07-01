@@ -18,7 +18,8 @@ module OmniAuth
         {
             email: raw_info['email'],
             name: raw_info['name'],
-            last_name: raw_info['last_name']
+            last_name: raw_info['last_name'],
+            tax_code: raw_info['tax_code']
         }
       end
 
